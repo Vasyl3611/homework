@@ -1,0 +1,29 @@
+
+td {
+    width: 100px;
+    height: 50px;
+}
+
+.ul-wrapper{
+	display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.type-circle{
+	list-style: circle;
+}
+
+.type-square{
+	list-style: square;
+}
+
+.type-a{
+	list-style: 'a';
+}
+
+.type-I{
+	list-style: 'I';
+}
+
